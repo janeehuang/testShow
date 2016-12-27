@@ -83,7 +83,7 @@
                     <a href="{{'contactUs'}}">Public</a>
                     <a href="https://www.facebook.com/OwnlyYJ/?skip_nax_wizard=true&__mref=message_bubble">News</a>
                     <a href="{{'login'}}">Private</a>
-                    <a href="https://github.com/janeehuang/ownly">GitHub</a>
+                    <a href="https://github.com/janeehuang/testShow">GitHub</a>
                 </div>
             </div>
         </div>
