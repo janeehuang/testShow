@@ -64,7 +64,8 @@
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <input type="submit" class="btn btn-success btn-send" value="送出">
+                                <input type="submit" class="btn btn-danger btn-send" value="送出">
+
                             </div>
                         </div>
                         <div class="row">
