@@ -50,7 +50,7 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="form_phone">Password</label>
-                                    <input id="form_phone" type="password" name="phone" class="form-control" placeholder="Please enter your password *">
+                                    <input id="form_phone" type="password" name="password" class="form-control" placeholder="Please enter your password *">
                                     <div class="help-block with-errors"></div>
                                 </div>
                             </div>

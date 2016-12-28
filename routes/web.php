@@ -19,6 +19,8 @@ Route::get('login',function(){
 	return view ('login');
 });
 
+Route::get ('/submitContact','');
+
 Route::get('/contactUs','ContactUsController@index');
 
 Route::get('/create', 'ContactUsController@create');

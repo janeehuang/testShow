@@ -105,5 +105,11 @@ return "Error!";
 
 
 
+    public function register(){
+
+        return View::make('login');
+
+    }
+
 }
 

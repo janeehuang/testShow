@@ -82,7 +82,7 @@
                     <a href="http://intern.limitstyle.com/jane.huang/A07-%E6%95%B8%E4%BD%8D%E6%87%89%E7%94%A8APP%E8%88%87%E5%8A%A0%E5%80%BC%E7%B6%B2%E7%AB%99___Ownly_%E5%AE%8C%E6%95%B4%E7%89%88.pdf">Documentation</a>
                     <a href="{{'contactUs'}}">Public</a>
                     <a href="https://www.facebook.com/OwnlyYJ/?skip_nax_wizard=true&__mref=message_bubble">News</a>
-                    <a href="{{'login'}}">Private</a>
+                    <a href="{{'register'}}">Private</a>
                     <a href="https://github.com/janeehuang/testShow">GitHub</a>
                 </div>
             </div>
